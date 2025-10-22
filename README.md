@@ -48,7 +48,7 @@ A honeypot VM (virtual machine) is a decoy computer system on a network, hosted 
 2. Select <b>Create</b> in the top left corner.
    - The subscription should already be filled in with your active Azure subscription
    - Under <b>Resource Group</b>, select the one we created in Step 2.
-   - For <b>Virtual Machine Name</b>, you can name it whatever you want. I named mine "rushvm" after my last name.
+   - For <b>Virtual Machine Name</b>, you can name it whatever you want. I named mine "CORP-NET-EAST" after my last name.
    - Region should stay as (US) East US 2
    - For <b>Image</b>, select <b>Windows 10 Pro, version 22H2 - x64 Gen2</b> for the purposes of this lab.
    - <b>Size</b> should be <b>Standard_D2s v6</b> (if you pick any lower than this, your VM will run incredibly slow)
